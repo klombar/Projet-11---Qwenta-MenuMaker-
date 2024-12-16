@@ -55,13 +55,6 @@ Le site doit permettre les fonctionnalités suivantes :
     - Implémenter des tests unitaires pour chaque composant.
     - Effectuer des tests d'intégration pour valider la fonctionnalité complète.
 
-## Liens et Ressources
-
-- **Document de spécifications techniques** : [Lien vers le document](#)
-- **Tableau Kanban Notion** : [Lien vers le tableau Notion](#)
-- **Veille Technologique** : [Lien vers Feedly](#)
-- **Maquettes et spécifications fonctionnelles** : [Lien vers les maquettes](#)
-
 ## Auteurs
 
 - **Soufiane** : Product Owner
