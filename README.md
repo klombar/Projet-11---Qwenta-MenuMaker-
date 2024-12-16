@@ -60,6 +60,3 @@ Le site doit permettre les fonctionnalités suivantes :
 - **Soufiane** : Product Owner
 - **Vous** : Développeur Front-End
 
----
-
-*Ce projet fait partie de l'engagement de Qwenta pour offrir des solutions numériques innovantes pour les restaurateurs.*
